@@ -1,6 +1,8 @@
-# GAME RULES
+### GAME
 
- https://vandaadams.github.io/pig-game/
+https://vandaadams.github.io/pig-game/
+
+### RULES
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
