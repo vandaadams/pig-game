@@ -50,7 +50,7 @@ document.querySelector('.btn-hold').addEventListener('click', btn = () => {
     // update global scores on panels
     document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer];
     // check if player won
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 100) {
       document.querySelector('#name-' + activePlayer).textContent = 'Winner!'
       document.querySelector('.dice').style.display = 'none';
       document.querySelector('.player-' + activePlayer + '-panel').classList.remove('active');
